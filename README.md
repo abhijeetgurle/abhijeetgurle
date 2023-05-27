@@ -11,4 +11,4 @@ hi, i'm [Abhijeet Gurle](https://www.linkedin.com/in/abhijeet-gurle-7b1286162/),
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhijeetgurle&show_icons=true&theme=gotham" alt="abhijeetgurle" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhijeetgurle&show_icons=true&theme=dark" alt="abhijeetgurle" />
