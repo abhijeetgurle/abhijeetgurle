@@ -9,6 +9,8 @@ hi, i'm [Abhijeet Gurle](https://www.linkedin.com/in/abhijeet-gurle-7b1286162/),
 - [React](https://react.dev/)
 - [Python](https://www.python.org/)
 
+<br><br>
+
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhijeetgurle&show_icons=true&theme=dark" alt="abhijeetgurle" />
