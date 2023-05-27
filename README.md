@@ -9,7 +9,7 @@ hi, i'm [Abhijeet Gurle](https://www.linkedin.com/in/abhijeet-gurle-7b1286162/),
 - [React](https://react.dev/)
 - [Python](https://www.python.org/)
 
-<br><br>
+<br>
 
 📈 my github stats
 
