@@ -17,6 +17,6 @@ hi, i'm [Abhijeet Gurle](https://www.linkedin.com/in/abhijeet-gurle-7b1286162/),
 
 <br>
 
-<p>All About Hacktoberfest 2023 </p>
+[Hacktoberfest 2023](https://hacktoberfest.com/)
 
 [![An image of @abhijeetgurle's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhijeetgurle)](https://holopin.io/@abhijeetgurle)
