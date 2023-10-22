@@ -2,7 +2,7 @@
 
 <br />
 
-hi, i'm [Abhijeet Gurle](https://www.linkedin.com/in/abhijeet-gurle-7b1286162/), a professional full stack web developer and a freelance software engineer from india. I love working on busineess ideas & open source projects to challenge myself each & every day.
+hi, i'm [Abhijeet Gurle](https://www.linkedin.com/in/abhijeet-gurle-7b1286162/), a professional full-stack web developer. I love working on open source projects to challenge myself each & every day.
 
 ### Technologies I Am Good In
 - [NodeJs](https://nodejs.org/en)
@@ -22,4 +22,4 @@ hi, i'm [Abhijeet Gurle](https://www.linkedin.com/in/abhijeet-gurle-7b1286162/),
 
 <h1>All About Hacktoberfest 2023 </h1>
 
-[Holopin board](holopin.io/@abhijeetgurle)
+[![An image of @abhijeetgurle's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhijeetgurle)](https://holopin.io/@abhijeetgurle)
